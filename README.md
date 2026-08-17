@@ -37,18 +37,33 @@ App URL : https://consensustrap.ai.studio
 
 An AI-driven civic technology dashboard designed to help organize, categorize, and map citizen grievances using AI-assisted workflows.
 
+GitHub URL : https://github.com/anubhab-jis/JanSeva-Civic-Control-Room
+
+App URL : jan-seva-civic-control-room.vercel.app
 
 ### 🌾 FarmIQ AI — Crop Monitoring System
 
 A multimodal AI agriculture platform combining crop-health analysis, environmental information, and precision-management workflows.
 
+GitHub URL : https://github.com/anubhab-jis/AI-Crop-Monitoring-System
+
+App URL : https://farmiq-ai-agricultur-1mkw.bolt.host
+
 ### 🗣️ LinguaWork
 
 An AI-powered workplace communication coach using roleplay, speech feedback, and industry-specific learning experiences.
 
+GitHub URL : https://github.com/anubhab-jis/LINGUAWORK
+
+App URL : https://html-app-development-qefv.bolt.host
+
 ### 💼 EchoChamber.ai
 
 A multi-agent market research simulator that uses different AI personas to explore alternative perspectives, disagreements, and synthesized insights.
+
+GitHub URL : https://github.com/anubhab-jis/EchoChamber.ai-Dashboard
+
+App URL : echo-chamber-ai-dashboard.vercel.app
 
 ---
 
