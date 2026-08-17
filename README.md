@@ -26,6 +26,7 @@ An exploratory black-box LLM evaluation lab investigating whether alignment-rele
 An experimental multi-agent LLM reliability lab for studying agreement, diversity, latency, and agent-level behavior through controlled, repeatable experiments.
 
 GitHub URL: https://github.com/anubhab-jis/ConsensusTrap
+
 App URL : https://consensustrap.ai.studio
 
 ### 🏛️ JanSeva — Civic AI Control Room
