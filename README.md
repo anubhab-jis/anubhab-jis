@@ -17,6 +17,10 @@ My current interests include:
 
 ## 🔬 Featured AI Projects
 
+### 🛡️ AlignmentInvariant Lab — AI Alignment & Safety Evaluation
+An exploratory black-box LLM evaluation lab investigating whether alignment-relevant behaviors remain stable under controlled contextual perturbations.
+
+
 ### 🧪 ConsensusTrap — Multi-Agent LLM Reliability Lab
 
 An experimental multi-agent LLM reliability lab for studying agreement, diversity, latency, and agent-level behavior through controlled, repeatable experiments.
