@@ -39,7 +39,7 @@ An AI-driven civic technology dashboard designed to help organize, categorize, a
 
 GitHub URL : https://github.com/anubhab-jis/JanSeva-Civic-Control-Room
 
-App URL : jan-seva-civic-control-room.vercel.app
+App URL : https://jan-seva-civic-control-room.vercel.app
 
 ### 🌾 FarmIQ AI — Crop Monitoring System
 
@@ -63,7 +63,7 @@ A multi-agent market research simulator that uses different AI personas to explo
 
 GitHub URL : https://github.com/anubhab-jis/EchoChamber.ai-Dashboard
 
-App URL : echo-chamber-ai-dashboard.vercel.app
+App URL : https://echo-chamber-ai-dashboard.vercel.app
 
 ---
 
